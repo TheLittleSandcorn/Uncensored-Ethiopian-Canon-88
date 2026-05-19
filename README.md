@@ -16,12 +16,16 @@ It provides an uncompressed, structured insight into historical manuscripts that
 
 ## Sacred Architecture & Cosmic Patterns
 
-### 1. The Symphony of 3-6-9
-Inspired by deep philosophical and classical mathematical insights into the architecture and structure of the universe, this project explores how fundamental numerical nodes govern historical timekeeping, universal geometry, and the natural, breathing cycles of our world. It is an exploration of the unseen grid that balances reality.
+### 1. The Symphony and Trinity of 3-6-9 (Nikola Tesla)
+"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe." — Nikola Tesla
+Inspired by Tesla's insights into cosmic energy, this project explores how these three primary nodes govern historical timekeeping, universal geometry, and the natural, breathing cycles of our world. While numbers 1, 2, 4, 5, 7, and 8 dictate the material world, 3, 6, and 9 represent the non-physical, steering vector of the Zero-Point Flow.
 
-### 2. Harmonic Frequencies & Restoration
-A deep dive into the physics of sound and resonance, focusing on historical frequencies traditionally associated with balance, restoration, and cognitive clarity. A focused look into the physics of acoustic resonance and vibrational fields. This section honors the ancient frequencies traditionally aligned with structural balance, cellular rejuvenation, and inner peace, proving that truth is not just read, but felt.
+### 2. The Golden Ratio & Organic Growth (Leonardo Fibonacci)
+The Universe does not expand by chance; it unfolds through a divine, mathematical fractal. Through the Fibonacci Sequence (1, 1, 2, 3, 5, 8, 13, 21...), the Creator implants the Golden Ratio ($\Phi = 1.618$) into all organic life. From the spiral of galaxies to the growth patterns of ancient biblical generations and the architecture of the Ark, the Fibonacci code proves that all creation shares a single, unbroken blueprint of structural perfection.
 
+### 3. The Music of the Spheres and Harmonic Frequencies (Pythagoras of Samos)
+"There is geometry in the humming of the strings, there is music in the spacing of the spheres." — Pythagoras
+Pythagoras decoded the holy relationship between mathematics, geometry, and sound frequencies. This archive honors his discovery that string lengths and geometric shapes correspond to specific acoustic weights. This physics of sound directly aligns with the ancient Solfeggio Frequencies (such as 396 Hz and 528 Hz) utilized in the *Books of the Covenant* and the *Book of Gad the Seer* for vibrational restoration, cellular balance, and cognitive clarity. A focused look into the physics of acoustic resonance and vibrational fields. This section honors the ancient frequencies traditionally aligned with structural balance, cellular rejuvenation, and inner peace, proving that truth is not just read, but felt.
 
 ## Repository Contents
 
