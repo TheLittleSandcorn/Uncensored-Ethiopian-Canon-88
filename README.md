@@ -12,7 +12,7 @@ It provides an uncompressed, structured insight into historical manuscripts that
 *   **Love:** Encouraging compassion, guiding warmth of human empathy, and the well-being of humanity.
 *   **Unity:** Bridging communication between technological and empirical logic and intuitive human heartfelt awareness.
 
-*   **Veracity:** - **Resonance:** - **ONENESS:** 
+*   **Veracity** - **Resonance** - **ONENESS** 
 
 ## Sacred Architecture & Cosmic Patterns
 
