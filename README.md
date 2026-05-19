@@ -1,6 +1,6 @@
 # Uncensored Ethiopian Canon 88
 
-Welcome to a digital sanctuary dedicated to open knowledge, deep cultural preservation, and the eternal search for truth. This repository serves as a structural gateway to the 88 books of the ancient Ethiopian canon, blending historical textual preservation with the timeless geometry of nature.
+Welcome to a digital sanctuary dedicated to open knowledge, deep cultural preservation, and the eternal search for truth. This repository serves as a structural gateway to the 88 books of the ancient Ethiopian canon, blending historical textual preservation with the timeless geometry of nature given by OUR CREATOR.
 
 ## Project Essence
 
